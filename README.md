@@ -4,7 +4,7 @@ A minimalistic, customisable todo app.
 
 ## Demo
 
-- Demo hosted on Netlify: [https://react-todo-list-9.netlify.app/](https://react-todo-list-9.netlify.app/)
+- Demo hosted on Vercel: [https://react-todo-app-main-sigma.vercel.app/]
 
 ## Features
 
@@ -22,14 +22,12 @@ A minimalistic, customisable todo app.
 - React Hooks : useState, useEffect, useRef, useContext
 - react-beautiful-dnd, react-icons, uuidv4...
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details
 
 ## Author
 
-- Instagram - [@ilyasbelaoud](https://www.instagram.com/ilyasbelaoud)
-- Twitter - [@ilyasbelaoud](https://www.twitter.com/ilyasbelaoud)
+- Instagram - [@sparshspradhan](https://www.instagram.com/sparshspradhan/?igsh=MW03amlmbWp2NWd0OA%3D%3D)
+
 
 ## Instructions
 
